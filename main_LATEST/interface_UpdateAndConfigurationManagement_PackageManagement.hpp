@@ -20,8 +20,6 @@
 /******************************************************************************/
 /* TYPEDEFS                                                                   */
 /******************************************************************************/
-typedef unsigned char uint8;
-
 class interface_UpdateAndConfigurationManagement_PackageManagement{
    public:
       uint8 CurrentStatus;
